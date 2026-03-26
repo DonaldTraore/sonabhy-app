@@ -1,0 +1,16 @@
+.main {
+  padding: 1rem;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  padding: .5rem 1rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+.topbar .spacer { flex: 1; }
+.topbar a.active { font-weight: 600; }
+.topbar button { padding: .25rem .5rem; }
+
+
