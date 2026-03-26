@@ -212,13 +212,6 @@ npm run build
 npm run lint
 ```
 
-## 📄 Licence
-
-[À compléter selon vos besoins]
-
-## 👤 Auteur
-
-[Votre nom/organisation]
 
 ---
 
